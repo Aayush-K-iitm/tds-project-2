@@ -1,3 +1,11 @@
+---
+title: "LLM Quiz Solver"
+emoji: "🧠"
+colorFrom: "blue"
+colorTo: "purple"
+sdk: "docker"
+pinned: false
+---
 @"
 # LLM Analysis - Autonomous Quiz Solver Agent
 
